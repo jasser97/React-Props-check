@@ -1,0 +1,12 @@
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.titleRed {
+  color: red;
+  border-bottom: red 2px;
+  text-align: center;
+}
